@@ -1,0 +1,11 @@
+{
+    "name": "poing/wood",
+    "description": "This is a abandoned package test.",
+    "authors": [
+        {
+            "name": "poing",
+            "email": "brian.lavallee@invite-comm.jp"
+        }
+    ],
+    "require": {}
+}
