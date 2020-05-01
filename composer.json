@@ -1,6 +1,7 @@
 {
     "name": "poing/wood",
     "description": "This is a abandoned package test.",
+	"abandoned": "poing/fence",
     "authors": [
         {
             "name": "poing",
